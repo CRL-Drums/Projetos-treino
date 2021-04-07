@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Teste_Pedro.Entities
+namespace Projeto_Figuras.Entities
 {
     class Triangulo : Figura
     {

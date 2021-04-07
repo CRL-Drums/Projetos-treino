@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Teste_Pedro
+namespace Projeto_Figuras
 {
     abstract public class Figura
     {

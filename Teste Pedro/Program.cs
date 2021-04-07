@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using Teste_Pedro.Entities;
-using Teste_Pedro.Entities.Enums;
+using Projeto_Figuras.Entities;
+using Projeto_Figuras.Entities.Enums;
 
-namespace Teste_Pedro
+namespace Projeto_Figuras
 {
     class Program
     {
